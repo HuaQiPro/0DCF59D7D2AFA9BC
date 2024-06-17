@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icon/plausible_favicon-9ba4fc88116ddbefd69681d7c1985553.png?vsn=d">
+    <title>Plausible · Web analytics</title>
+    <link rel="stylesheet" href="/css/app-c358498d92bbe0e4906824babf0979db.css?vsn=d"/>
+  </head>
+  <body class="flex flex-col h-full bg-gray-100 dark:bg-gray-900">
+    <div class="w-full my-8 text-center">
+<img alt="Plausible logo" class="hidden dark:inline" src="/images/icon/plausible_logo_dark-9fff186187e2a9c972ae81c88e63e830.png?vsn=d" style="height: 2.5rem;">
+<img alt="Plausible logo" class="inline dark:hidden" src="/images/icon/plausible_logo-973ea42fac38d21a0a8cda9cfb9231c9.png?vsn=d" style="height: 2.5rem;">
+    </div>
+<div class="container text-center mt-24">
+  <h1 class="text-5xl font-black dark:text-gray-100">404</h1>
+  <div class="my-4 text-xl dark:text-gray-100">Oops! There&#39;s nothing here</div>
+<a class="button mt-4" href="/">Go to the homepage</a>
+</div>
+
+    <script type="text/javascript" src="/js/app-f048c7fd60fb258edd9a4e0ea6c69f07.js?vsn=d"></script>
+  </body>
+</html>
