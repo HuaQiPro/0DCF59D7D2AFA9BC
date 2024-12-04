@@ -147,6 +147,10 @@ let PlayEr = {
                 } else if (/.png(#|\?|$)/i.exec(s)) {
                     t = 'm3u8';
                 }
+				else if (/.mp4\.m3u8(#|\?|$)/i.exec(s)) {
+    t = 'm3u8';
+}
+
                 break;
             case 'm3u8':
                 t = "m3u8";
