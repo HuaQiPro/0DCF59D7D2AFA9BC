@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4545904 */
-  src: url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180919328.woff2?t=1715674341010') format('woff2'),
-       url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180920031.woff?t=1715674341010') format('woff'),
-       url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180921871.ttf?t=1715674341010') format('truetype');
+  src: url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180919328.woff2?t=1715674341010') format('woff2'),
+       url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180920031.woff?t=1715674341010') format('woff'),
+       url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180921871.ttf?t=1715674341010') format('truetype');
 }
 
 .iconfont {

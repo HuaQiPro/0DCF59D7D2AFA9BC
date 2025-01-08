@@ -11,8 +11,8 @@
 @charset "utf-8";
 /* 公共  */
 body{position: relative; width: 100%; height: 100%; margin: 0; padding: 0; font-family: "Microsoft YaHei"; background: #000; color: #ccc;} 
-body:before{ content: ""; width: 100%; height: 600px; position: absolute; top: 0; left: 0; z-index: -1; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181631097.jpg) center no-repeat;}
-body:after{ content: ""; width: 100%; height: 500px; position: absolute; bottom: 0; left: 0; z-index: -1; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181632011.jpg) center no-repeat;}
+body:before{ content: ""; width: 100%; height: 600px; position: absolute; top: 0; left: 0; z-index: -1; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181631097.jpg) center no-repeat;}
+body:after{ content: ""; width: 100%; height: 500px; position: absolute; bottom: 0; left: 0; z-index: -1; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181632011.jpg) center no-repeat;}
 ul, ol, li{margin:0;padding:0;list-style:none;}
 input{outline: medium none; outline: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
 input[type=radio], input[type=checkbox]{ margin:0;}
@@ -66,7 +66,7 @@ a:hover,a:focus,a:link{text-decoration: none;}
 .layout-tabs .nav-tabs.active li{ float: right; margin: 0 0 0 30px;}
 /* 视频列表 */
 .video-list .cover{display: block; position: relative; padding-top: 150%; background-repeat: no-repeat;}
-.video-list .cover .play{display: none; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%; background: rgba(0,0,0,.3) url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181532875.png) center no-repeat;}
+.video-list .cover .play{display: none; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%; background: rgba(0,0,0,.3) url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181532875.png) center no-repeat;}
 .video-list .cover:hover .play{ display: block;}
 .video-list .cover .bottomtext,.video-list .cover .topictext{display: block; width: 100%; position: absolute; bottom: 0; left: 0; padding:5px 10px; background-repeat: no-repeat; background-repeat: no-repeat; background-image: linear-gradient(transparent,rgba(0,0,0,.5)); font-size: 12px; color: #fff; text-align: center;}
 .video-list .cover .bottomtext.active{ font-size: 14px; padding: 10px;}
@@ -107,8 +107,8 @@ a:hover,a:focus,a:link{text-decoration: none;}
 .media .media-cover{ width: 150px;}
 .media .media-score{ margin-bottom: 20px;}
 .media .media-score .branch{display: inline-block; margin-left: 10px; font-family: Georgia,"Times New Roman",Times,serif; font-size: 24px; line-height: 24px;}
-.media .media-score .star{display: inline-block; position: relative; top: 5px; width: 160px; height: 25px; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181556437.png) 0 0 no-repeat;}
-.media .media-score .star .star-cur{display: inline-block; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181557455.png) 0 0 no-repeat; height: 25px; position: absolute; top: 0;  z-index: 1;}
+.media .media-score .star{display: inline-block; position: relative; top: 5px; width: 160px; height: 25px; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181556437.png) 0 0 no-repeat;}
+.media .media-score .star .star-cur{display: inline-block; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181557455.png) 0 0 no-repeat; height: 25px; position: absolute; top: 0;  z-index: 1;}
 /* 播放/下载列表 */
 .play-body{ padding: 0 10px;}
 .playlist ul{ padding:10px 0 0 15px;}
@@ -177,8 +177,8 @@ a:hover,a:focus,a:link{text-decoration: none;}
 .mask{ width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4); position: fixed; top: 0; left: 0; z-index: 1001;}	
 }
 @media (max-width: 767px){	
-body:before{height: 400px; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181626830.jpg) top no-repeat; background-size: 100%;}
-body:after{height: 300px; background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202406181630524.jpg) bottom no-repeat; background-size: 100%;}
+body:before{height: 400px; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181626830.jpg) top no-repeat; background-size: 100%;}
+body:after{height: 300px; background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202406181630524.jpg) bottom no-repeat; background-size: 100%;}
 .layout{margin-top: 10px; padding:0 10px 10px;}
 .layout.active{margin-top: 10px;}
 .layout [ class*="col-" ]{ padding: 5px;}

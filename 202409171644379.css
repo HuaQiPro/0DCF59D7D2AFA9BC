@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-@import url("https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171618685.css");
+@import url("https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171618685.css");
 
-@import url("https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171625114.css");
+@import url("https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171625114.css");
 
 body {
 	font-family: "Microsoft YaHei","微软雅黑",STHeiti,"WenQuanYi Micro Hei",SimSun,sans-serif;
@@ -241,7 +241,7 @@ textarea {
 }
 
 .loading {
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171632278.gif) no-repeat center;
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171632278.gif) no-repeat center;
 	display: block;
 	text-indent: 15%;
 }
@@ -1709,7 +1709,7 @@ textarea {
 	height: 390px;
 	clear: none;
 	visibility: visible;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171634344.png)
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171634344.png)
 }
 
 .star-top::before {
@@ -1721,7 +1721,7 @@ textarea {
 	margin: 0 0 0 -798px;
 	width: 400px;
 	height: 390px;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171636303.png)
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171636303.png)
 }
 
 .star-top-info {
@@ -1762,7 +1762,7 @@ textarea {
 	font-size: 14px;
 	padding-top: 30px;
 	background-position: 0 -1px;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171636524.png) 0 0 no-repeat;
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171636524.png) 0 0 no-repeat;
 }
 
 .star-box {
@@ -2123,7 +2123,7 @@ body.box .type-box {
 }
 
 .article-content img.lazyload,.article-images-content img.lazyload {
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171632278.gif) no-repeat center;
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171632278.gif) no-repeat center;
 	display: block;
 }
 
@@ -2427,7 +2427,7 @@ body.box .details-play-list {
 }
 
 .gico {
-	background-image: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171638408.png);
+	background-image: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171638408.png);
 	background-repeat: no-repeat;
 	font-size: 14px;
 	display: block;
@@ -2715,11 +2715,11 @@ body.box .vod-play-box {
 	width: 25px;
 	height: 25px;
 	text-indent: -99px;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171640127.png) no-repeat
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171640127.png) no-repeat
 }
 
 #rating .rating li.active,#rating .rating li.hover {
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171641358.png) no-repeat
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171641358.png) no-repeat
 }
 
 .rating-box {
@@ -2727,7 +2727,7 @@ body.box .vod-play-box {
 	height: 85px;
 	margin-top: -50px;
 	position: relative;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171642160.gif) 8px bottom no-repeat;
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171642160.gif) 8px bottom no-repeat;
 	display: none;
 	z-index: 4;
 	padding-left: 9px;
@@ -2841,7 +2841,7 @@ body.box .vod-play-box {
 	float: left;
 	margin-top: 1px;
 	margin-right: 5px;
-	background: url(https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409171643989.gif) no-repeat
+	background: url(https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409171643989.gif) no-repeat
 }
 
 .rating-box .rating-show .star5 {

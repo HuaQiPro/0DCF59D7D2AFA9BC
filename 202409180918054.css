@@ -1,8 +1,8 @@
 @font-face {
   font-family: "icon"; /* Project id 3510075 */
-  src: url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180915857.woff2?t=1672859105300') format('woff2'),
-       url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180915728.woff?t=1672859105300') format('woff'),
-       url('https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409180916232.ttf?t=1672859105300') format('truetype');
+  src: url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180915857.woff2?t=1672859105300') format('woff2'),
+       url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180915728.woff?t=1672859105300') format('woff'),
+       url('https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409180916232.ttf?t=1672859105300') format('truetype');
 }
 
 .icon {

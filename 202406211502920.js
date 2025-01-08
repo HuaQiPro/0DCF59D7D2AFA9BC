@@ -77,7 +77,7 @@
                 })
             },
             'Css':function(){
-                $("#cssFile").attr('href','https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/'+zuoz.Cookie.Get('mx_style')+'.css');
+                $("#cssFile").attr('href','https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/'+zuoz.Cookie.Get('mx_style')+'.css');
             }
         }
 }

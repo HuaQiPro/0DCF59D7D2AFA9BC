@@ -224,7 +224,7 @@ let PlayEr = {
         playData["setting"] = true;
         playData["url"] = u;
         if(t === 'flv') {
-            $("title").after('<script src="https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409020013845.js"></script>');
+            $("title").after('<script src="https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409020013845.js"></script>');
             playData["type"] = 'flv';
             playData["customType"]={
                 flv: function playFlv(video, url, art) {
@@ -242,7 +242,7 @@ let PlayEr = {
                 }
             }
         }else if(t === 'm3u8' || t === 'hls'){
-            $("title").after('<script src="https://www.huaqi.ru/Redirect/HuaQiPro/0DCF59D7D2AFA9BC/202409020013847.js"></script>');
+            $("title").after('<script src="https://file.huaqi.pro/HuaQiPro/0DCF59D7D2AFA9BC/202409020013847.js"></script>');
             playData["type"] = 'm3u8';
             playData["customType"]={
                 m3u8: function playM3u8(video, url, art) {
